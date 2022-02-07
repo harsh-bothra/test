@@ -1,18 +1,13 @@
 # main links
 main:
-  - title: "Offsec Posts"
-    url: /offsec
-  - title: "Exploit Development"
-    url: /expdev
-  - title: "Binary Exploitation"
-    url: /binexp
-  - title: "HTB Writeups"
-    url: /htb
-  - title: "Web Security"
-    url: /websec
-  - title: "Coding"
-    url: /coding
-  - title: "All Categories"
-    url: /categories
-  - title: "Tags"
-    url: /tags
+  - title: "Home"
+    url: /
+  - title: "Resources"
+    url: 
+  - title: "Newsletter"
+    url: /
+  - title: "MindMaps"
+    url: /
+  - title: "Guest Resources"
+    url: /
+
