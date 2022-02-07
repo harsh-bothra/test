@@ -20,7 +20,7 @@ title                    : "SecurityExplained | Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Harsh Bothra"
-description              : "Add Description bro"
+description              : "SecurityExplained"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,33 +93,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gokul AP"
+  name             : "Harsh Bothra"
   avatar           : /assets/images/site_data/ccc.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Python Dev - Security Researcher"
-  location         : "Tamilnadu, India"
+  bio              : "Senior Security Consultant | Cobalt Core Team Lead & Pentester | Synack Red Teamer | Bugcrowd Top 150 Hackers & MVP 2020 | Author | Speaker | Trainer | Poet | Learner"
+  location         : "Noida, India"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mail@mail.com"
+      url: "mailto:hbothra22@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://google.com"
+      url: "https://harshbothra.tech/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/harshbothra_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      #url: "https://facebook.com/"
+      url: "https://www.facebook.com/hrshbothra"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "#"
+      url: "https://www.linkedin.com/in/harshbothra"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/harsh-bothra"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "#"
+      url: "https://www.instagram.com/harshbothra_"
 
 # Site Footer
 footer:
