@@ -8,11 +8,11 @@ header:
 ribbon: green
 description: "Account Takoever Methodologys"
 categories:
-  - HTB
+  - resources
 ---
 
 
-### SecurityExplained S-32: My Methodology on Performing Account Takoevers
+### SecurityExplained S-32: My Methodology on Performing Account Takoevers :)
 
 
 An account takeover usually refers to gaining persistent access to the victim user's account and performing all the authentication actions as a victim would be able to do. The severity of account takeover issues is usually considered between High to Critical. However, it also depends upon the complexity and likelihood of the attack.
