@@ -1,16 +1,3 @@
----
-title: "My Methodology on Performing Account Takoevers"
-classes: wide
-tag: 
-header:
-  teaser: /assets/images/htb/htb.png
-ribbon: green
-description: "Account Takoever Methodology"
-categories:
-  - resources
----
-
-
 ### SecurityExplained S-32: My Methodology on Performing Account Takoevers
 
 
@@ -87,8 +74,7 @@ c. Once the valid OTP is received, you will get the proper access token which ca
     - Response Manipulation
     - Status Code Manipulation
     - Parameter Pollution
-    - Token Forging.
-
+    - Token Forging
 
 
 [Follow Twitter Thread](https://twitter.com/harshbothra_/status/1488504894294466561?s=20&t=DGEwqEwXwFbWH0VXkOKVsQ)
