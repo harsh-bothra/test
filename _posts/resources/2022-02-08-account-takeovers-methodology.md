@@ -1,3 +1,16 @@
+---
+title: "My Methodology on Performing Account Takoevers"
+classes: wide
+tag: 
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Account Takoever Methodology"
+categories:
+  - resources
+---
+
+
 ### SecurityExplained S-32: My Methodology on Performing Account Takoevers
 
 
