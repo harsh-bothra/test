@@ -7,7 +7,7 @@ main:
   - title: "Newsletter"
     url: /
   - title: "MindMaps"
-    url: /
+    url: /mindmaps
   - title: "Guest Resources"
     url: /guest-resources
 
