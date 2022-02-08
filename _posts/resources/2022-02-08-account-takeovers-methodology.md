@@ -87,7 +87,7 @@ c. Once the valid OTP is received, you will get the proper access token which ca
     - Response Manipulation
     - Status Code Manipulation
     - Parameter Pollution
-    - Token Forging
+    - Token Forging.
 
 
 
