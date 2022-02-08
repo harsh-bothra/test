@@ -59,8 +59,8 @@ c. Try to identify if any known token generation library is used by the applicat
 - If the application uses OAuth, there are multiple ways to perform account takeover if the OAuth is misconfigured. Some of the attacks are performing account takeover using CSRF in OAuth, SSO Restriction Bypass, etc.
 
 Example:
-- https://hackerone.com/reports/314808
-- https://hackerone.com/reports/541701
+- <a href="https://hackerone.com/reports/314808">https://hackerone.com/reports/314808</a>
+- <a href="https://hackerone.com/reports/541701">https://hackerone.com/reports/541701</a>
 
 7. Pre-Authentication Account Takeover
 - I have shared an in-depth blog on performing Pre-Authentication Account Takeover that can be found at: https://hbothra22.medium.com/attacking-social-logins-pre-authentication-account-takeover-790248cfdc3
