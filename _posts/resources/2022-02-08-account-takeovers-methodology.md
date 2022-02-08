@@ -1,20 +1,3 @@
----
-title: "HTB - Blue"
-classes: wide
-tag: 
-  - "OSCP Box"
-  - "Eternal Blue Exploit"
-  - "Windows Box"
-  - "Windows VAPT"
-  - "MS17-010"
-  - "OSCP Prep"
-header:
-  teaser: /assets/images/htb/htb.png
-ribbon: green
-description: "Writeup for HTB - Blue"
-categories:
-  - HTB
----
 
 ### SecurityExplained S-32: My Methodology on Performing Account Takoevers
 
