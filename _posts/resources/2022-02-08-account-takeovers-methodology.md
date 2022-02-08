@@ -1,6 +1,6 @@
 ### SecurityExplained S-32: My Methodology on Performing Account Takoevers
 
-```
+
 An account takeover usually refers to gaining persistent access to the victim user's account and performing all the authentication actions as a victim would be able to do. The severity of account takeover issues is usually considered between High to Critical. However, it also depends upon the complexity and likelihood of the attack.
 
 In general, the account takeover is not a "vulnerability class" itself but an impact result of a vulnerability. For example, the application was vulnerable to CSRF, and the attacker was able to perform specific actions that led to "Account Takeover".
@@ -75,6 +75,7 @@ c. Once the valid OTP is received, you will get the proper access token which ca
     - Status Code Manipulation
     - Parameter Pollution
     - Token Forging
-```
+
+
 
 [Follow Twitter Thread](https://twitter.com/harshbothra_/status/1488504894294466561?s=20&t=DGEwqEwXwFbWH0VXkOKVsQ)
