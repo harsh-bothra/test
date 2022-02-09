@@ -1,6 +1,20 @@
+---
+title: "Bypass Privileges and Other Restrictions"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Bypass Privileges & Restrictions"
+categories:
+  - resources
+---
+
+
 ### SecurityExplained S-5: Bypassing Privileges & Other Restrictions with Mass Assignment Attacks.
 
-```
+
 As per OWASP's defination: Software frameworks sometime allow developers to automatically bind HTTP request parameters into program code variables or objects to make using that framework easier on developers. This can sometimes cause harm. Attackers can sometimes use this methodology to create new parameters that the developer never intended which in turn creates or overwrites new variable or objects in program code that was not intended. This is called a Mass Assignment vulnerability.
 
 There are multiple attacks that can be executed by exploiting this vulnerability such as escalating privileges, bypassing business logic, manipulating payloads and bypassing client-side checks.
@@ -20,6 +34,6 @@ Testing for testing issue is quite easy, one of the quick example is to check fo
 
 OWASP CheatSheet series contains interesting information on this attack: https://cheatsheetseries.owasp.org/cheatsheets/Mass_Assignment_Cheat_Sheet.html
 
-```
+
 
 [Follow Twitter Thread](https://twitter.com/harshbothra_/status/1478739664093675526?s=20&t=DGEwqEwXwFbWH0VXkOKVsQ)
