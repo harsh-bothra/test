@@ -1,6 +1,19 @@
+---
+title: "Path Traversal via File Upload"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Path Traversal via File Upload"
+categories:
+  - resources
+---
+
 ### SecurityExplained S-9: Path Traversal via File Upload
 
-```
+
 File upload is a very interesting functionality and there are multiple attacks that are possible such as code execution, cross-site scripting and one of the functionality is "File Overwrite using Path Traversal"
 
 Whenever you find a file upload functionality that stores the files on the backend instead of just processing the data for one time use, you may try following steps:
@@ -12,6 +25,6 @@ Whenever you find a file upload functionality that stores the files on the backe
 
 Note: It is not recommended to overwrite a critical system file on the production system, make sure you take necessary permissions from the client before you perform such escalations.
 
-```
+
 
 [Follow Twitter Thread](https://twitter.com/harshbothra_/status/1480200369732931584?s=20&t=DGEwqEwXwFbWH0VXkOKVsQ)
