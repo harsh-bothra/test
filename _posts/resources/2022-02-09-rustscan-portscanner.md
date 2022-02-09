@@ -1,6 +1,19 @@
+---
+title: "RustScan - Modern Port Scanner"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "RustScan - Modern Port Scanner"
+categories:
+  - resources
+---
+
 ### SecurityExplained S-11: RustScan - The Modern Port Scanner
 
-```
+
 - RustScan is a port scanner written using Rust programming. The tool utilizes adaptive learning model to improvise itself over the time, i.e. more you use the tool, better it becomes.
 
 # Tool Repo: https://github.com/RustScan/RustScan/
@@ -18,6 +31,5 @@ There are two main points that makes this tool my new preffered choice for the P
 
 Installation Guide: https://github.com/RustScan/RustScan/wiki/Installation-Guide
 
-```
 
 [Follow Twitter Thread](https://twitter.com/harshbothra_/status/1480905854433988611?s=20&t=DGEwqEwXwFbWH0VXkOKVsQ)
