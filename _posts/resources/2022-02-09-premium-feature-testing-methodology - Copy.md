@@ -1,6 +1,19 @@
+---
+title: "Testing Premium Features"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Testing Premium Features"
+categories:
+  - resources
+---
+
 ### SecurityExplained S-7: My Methodology to Test Premium Features
 
-```
+
 Premium Features are not widely tested by crowd due to the involvement of a purchase factor. However, the person who often invest some amount to purchase premium account & perform testing for premium feature abuse is less likely to go disappointed.
 
 Below is my methodology to test for the Premium features:
@@ -21,6 +34,6 @@ Below is my methodology to test for the Premium features:
 5. Checking for payment gateway flows and payment tampering.
 
 Feel free to add more techniques if you know some!
-```
+
 
 [Follow Twitter Thread](https://twitter.com/harshbothra_/status/1479451102408065033?s=20&t=DGEwqEwXwFbWH0VXkOKVsQ)
