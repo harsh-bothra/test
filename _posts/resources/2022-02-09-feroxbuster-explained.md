@@ -1,6 +1,19 @@
+---
+title: "FeroxBuster - Content Discovery"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "FeroxBuster - Content Discovery"
+categories:
+  - resources
+---
+
 # SecurityExplained S-2: FeroxBuster - A Content Discovery Tool! 
 
-```
+
 Ferox Buster is easy to use, fast & convenient "Content Discovery" tool written in Rust. 
 
 - Tool Link: https://github.com/epi052/feroxbuster 
@@ -21,7 +34,6 @@ Other interesting use-case examples can be found here: https://epi052.github.io/
 
 Feel free to ask questions related to "How do I perform Content Discovery", etc. in the comments, and I will try to answer in the best way possible. Cheers! 
 
-```
 
 #### Twitter Handle: @harshbothra_
 [Follow Twitter Thread](https://twitter.com/harshbothra_/status/1477541501311676417?s=20&t=QR8LCZPmGCrSu2SuCUBCgQ)
