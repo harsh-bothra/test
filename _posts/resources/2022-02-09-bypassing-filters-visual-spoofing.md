@@ -1,6 +1,20 @@
+---
+title: "Bypass Filters with Visual Spoofing"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Bypass Filters with Visual Spoofing"
+categories:
+  - resources
+---
+
+
 ### SecurityExplained S-8: Bypassing Filters(and more) with Visual Spoofing
 
-```
+
 Visual Spoofing attacks utilizes the characters from different languages that are visually similar. For example: These all letters [AΑ А ᗅ ᗋ ᴀ Ａ] looks like 'A' of english, visually, however, the computer program processes these characters with their exact meanings.
 
 This is where it became an interesting tool to abuse the filters and regular expression based checks & bypass them.
@@ -31,6 +45,6 @@ Homoglyph Attack Generator: https://www.irongeek.com/homoglyph-attack-generator.
 
 Interesting Resources: https://websec.github.io/unicode-security-guide/visual-spoofing/
 
-```
+
 
 [Follow Twitter Thread](https://twitter.com/harshbothra_/status/1479813683114958852?s=20&t=DGEwqEwXwFbWH0VXkOKVsQ)
