@@ -1,6 +1,19 @@
+---
+title: "Attacking Zip Upload Functionality with ZipSlip Attack"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Attacking Zip Upload Functionality with ZipSlip Attack"
+categories:
+  - resources
+---
+
 ### SecurityExplained S-10: Attacking Zip Upload Functionality with ZipSlip Attack
 
-```
+
 As mentioned in the last SecurityExplained post, file upload is a big attack vector & one of my favourite functionality to perform attack on. When an application allows uploading zip, stores it on the back and to process the content, tried to unzip it, it is an interesting attack vector for "Zip Slip" Attack.
 
 Let's understand what is a ZipSlip Attack:
@@ -20,6 +33,6 @@ As per the synk.io's: Zip Slip is a widespread arbitrary file overwrite critical
 - https://github.com/snyk/zip-slip-vulnerability
 
 
-```
+
 
 [Follow Twitter Thread](https://twitter.com/harshbothra_/status/1480567796098420737?s=20&t=DGEwqEwXwFbWH0VXkOKVsQ)
