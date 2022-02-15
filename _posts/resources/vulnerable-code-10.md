@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 10"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "authentication bypass"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-22: Vulnerable Code Snippet - 10
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-10.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-10.jpg)
 
 #### Solution:
 
