@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 13"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "RCE via Path Traversal"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-25: Vulnerable Code Snippet - 13
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-13.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-13.jpg)
 
 #### Solution:
 
