@@ -1,8 +1,21 @@
+---
+title: "Vulnerable Code Snippet - 2"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "DOM XSS"
+categories:
+  - Vulnerable Code Snippet
+---
+
 ### SecurityExplained S-13: Vulnerable Code Snippet - 2
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-2.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-2.jpg)
 
 #### Solution:
 
