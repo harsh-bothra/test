@@ -1,8 +1,21 @@
+---
+title: "Vulnerable Code Snippet - 3"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Arbitrary File Read"
+categories:
+  - Vulnerable Code Snippet
+
+---
 ### SecurityExplained S-15: Vulnerable Code Snippet - 3
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-3.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-3.jpg)
 
 #### Solution:
 
