@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 12"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Prototype Pollution"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-24: Vulnerable Code Snippet - 12
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-12.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-12.jpg)
 
 #### Solution:
 
