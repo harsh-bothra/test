@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 15"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Time of Check - Time of Use"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-27: Vulnerable Code Snippet - 15
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-15.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-15.jpg)
 
 #### Solution:
 
