@@ -1,8 +1,19 @@
-### SecurityExplained S-30: Vulnerable Code Snippet - 18
+---
+title: "Vulnerable Code Snippet - 15"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "password reset flaw"
+categories:
+  - Vulnerable Code Snippet
+---### SecurityExplained S-30: Vulnerable Code Snippet - 18
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-18.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-18.jpg)
 
 #### Solution:
 
