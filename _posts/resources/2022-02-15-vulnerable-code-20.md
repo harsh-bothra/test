@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 20"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Buffer Overflow"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-33: Vulnerable Code Snippet - 20
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-20.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-20.jpg)
 
 #### Solution:
 
