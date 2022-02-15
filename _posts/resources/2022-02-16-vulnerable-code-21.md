@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 16"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "DNS rebinding"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-34: Vulnerable Code Snippet - 21
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-21.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-21.jpg)
 
 #### Solution:
 
