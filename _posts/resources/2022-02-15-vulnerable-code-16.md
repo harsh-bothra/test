@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 16"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "XXE"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-28: Vulnerable Code Snippet - 16
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-16.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-16.jpg)
 
 #### Solution:
 
