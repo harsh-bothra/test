@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 14"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Code Execution"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-26: Vulnerable Code Snippet - 14
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-14.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-14.jpg)
 
 #### Solution:
 
