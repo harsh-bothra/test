@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 19"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "SQLi Regex Bypass"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-31: Vulnerable Code Snippet - 19
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-19.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-19.jpg)
 
 #### Solution:
 
