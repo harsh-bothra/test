@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 17"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: ""
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-29: Vulnerable Code Snippet - 17
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-17.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-17.jpg)
 
 #### Solution:
 
