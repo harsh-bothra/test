@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 11"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "serialize - deserialized"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-23: Vulnerable Code Snippet - 11
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-11.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-11.jpg)
 
 #### Solution:
 
