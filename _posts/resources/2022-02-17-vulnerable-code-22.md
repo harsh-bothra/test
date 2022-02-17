@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 22"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "CMD Injextion"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-35: Vulnerable Code Snippet - 22
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-22.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-22.jpg)
 
 #### Solution:
 
