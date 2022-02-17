@@ -9,7 +9,9 @@ ribbon: green
 description: "password reset flaw"
 categories:
   - Vulnerable Code Snippet
----### SecurityExplained S-30: Vulnerable Code Snippet - 18
+---
+
+### SecurityExplained S-30: Vulnerable Code Snippet - 18
 
 #### Vulnerable Code:
 
