@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 23"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "Path Traversal"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-20: Vulnerable Code Snippet - 8
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-8.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-8.jpg)
 
 #### Solution:
 
