@@ -14,7 +14,7 @@ categories:
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-7.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-7.jpg)
 
 #### Solution:
 
