@@ -1,3 +1,15 @@
+---
+title: "Vulnerable Code Snippet - 7"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "RCE via SQLi"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-19: Vulnerable Code Snippet - 7
 
 #### Vulnerable Code:
