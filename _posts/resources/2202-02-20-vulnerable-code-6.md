@@ -1,4 +1,15 @@
-### SecurityExplained S-18: Vulnerable Code Snippet - 6
+---
+title: "Vulnerable Code Snippet - 6"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "SSRF"
+categories:
+  - Vulnerable Code Snippet
+---### SecurityExplained S-18: Vulnerable Code Snippet - 6
 
 #### Vulnerable Code:
 
