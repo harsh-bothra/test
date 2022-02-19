@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 24"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "LFI"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-37: Vulnerable Code Snippet - 24
 
 #### Vulnerable Code: 
 
-![Vulnerable Code](../media/code-24.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-24.jpg)
 
 
 #### Solution: 
