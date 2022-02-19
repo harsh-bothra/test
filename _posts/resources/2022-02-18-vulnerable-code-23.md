@@ -14,7 +14,7 @@ categories:
 
 #### Vulnerable Code: 
 
-![Vulnerable Code](https://i.imgur.com/xAIlSAR.png)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-23.jpg)
 
 
 #### Solution: 
