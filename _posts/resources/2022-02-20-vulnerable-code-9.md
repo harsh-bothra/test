@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 9"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "RCE via File Upload"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-21: Vulnerable Code Snippet - 9
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-9.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-9.jpg)
 
 #### Solution:
 
