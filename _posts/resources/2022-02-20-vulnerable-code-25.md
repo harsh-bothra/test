@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 25"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "RCE"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-38: Vulnerable Code Snippet - 25
 
 #### Vulnerable Code: 
 
-![Vulnerable Code](../media/code-25.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-25.jpg)
 
 
 #### Solution: 
