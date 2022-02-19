@@ -1,8 +1,20 @@
+---
+title: "Vulnerable Code Snippet - 5"
+classes: wide
+tag: 
+  - ""
+header:
+  teaser: /assets/images/htb/htb.png
+ribbon: green
+description: "XSS"
+categories:
+  - Vulnerable Code Snippet
+---
 ### SecurityExplained S-17: Vulnerable Code Snippet - 5
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-5.jpg)
+![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-5.jpg)
 
 #### Solution:
 
