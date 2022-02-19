@@ -13,7 +13,7 @@ categories:
 
 #### Vulnerable Code:
 
-![Vulnerable Code](../media/code-6.jpg)
+![Vulnerable Code](../media/code-06.jpg)
 
 #### Solution:
 
