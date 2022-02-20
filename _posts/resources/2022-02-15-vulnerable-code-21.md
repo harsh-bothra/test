@@ -1,5 +1,5 @@
 ---
-title: "Vulnerable Code Snippet - 16"
+title: "Vulnerable Code Snippet - 21"
 classes: wide
 tag: 
   - ""
