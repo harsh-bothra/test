@@ -9,7 +9,8 @@ ribbon: green
 description: "SSRF"
 categories:
   - Vulnerable Code Snippet
----### SecurityExplained S-18: Vulnerable Code Snippet - 6
+---
+### SecurityExplained S-18: Vulnerable Code Snippet - 6
 
 #### Vulnerable Code:
 
