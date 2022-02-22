@@ -1,5 +1,5 @@
 ---
-title: "Vulnerable Code Snippet - 23"
+title: "Vulnerable Code Snippet - 8"
 classes: wide
 tag: 
   - ""
@@ -14,7 +14,7 @@ categories:
 
 #### Vulnerable Code:
 
-![Vulnerable Code](https://github.com/harsh-bothra/SecurityExplained/blob/main/media/code-8.jpg)
+![Vulnerable Code](https://raw.githubusercontent.com/harsh-bothra/SecurityExplained/main/media/code-8.jpg)
 
 #### Solution:
 
