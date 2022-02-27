@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Resources"
-    url: /resources
+    url: /categories/#resources
   - title: "Newsletter"
     url: /categories/#vulnerable-code-snippet
   - title: "MindMaps"
