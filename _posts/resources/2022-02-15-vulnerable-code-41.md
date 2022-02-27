@@ -6,7 +6,7 @@ tag:
 header:
   teaser: /assets/images/htb/htb.png
 ribbon: green
-description: "DOM XSS"
+description: "CORS"
 categories:
   - Vulnerable Code Snippet
 ---
