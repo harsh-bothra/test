@@ -314,7 +314,7 @@ pt-BR:
   results_found              : "Resultado(s) encontrado(s)"
   back_to_top                : "Voltar para o topo"
 
-# Italian
+# Italian 
 # -------
 it: &DEFAULT_IT
   skip_links                 :
